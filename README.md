@@ -2,6 +2,7 @@
 
 购物车界面
 ![界面][base64str]
+![图片](https://github.com/hukz37/vue-demo/blob/master/%E6%88%AA%E5%9B%BE.png?raw=true)
 
 
 ## Project setup
